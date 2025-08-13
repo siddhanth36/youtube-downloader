@@ -15,7 +15,7 @@ A lightweight Python script to download YouTube videos or entire playlists in hi
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/youtube-downloader.git
+   git clone https://github.com/siddhanth36/youtube-downloader.git
    cd youtube-downloader
    #Install dependencies:
    pip install pytube
